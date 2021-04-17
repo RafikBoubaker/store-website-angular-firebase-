@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-app-eb856": {
+      "hosting": {
+        "my-app": [
+          "my-app-eb856"
+        ]
+      }
+    }
+  }
+}
